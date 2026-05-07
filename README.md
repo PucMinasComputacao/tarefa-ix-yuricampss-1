@@ -4,16 +4,7 @@
 Nome: Yuri  
 Matrícula: 907001
 
-## Prints
+## Descrição
+Atividade de prática de JavaScript utilizando objetos, arrays e métodos de iteração como map, filter, reduce, forEach, some e every.
 
-### Console - Listagem de títulos
-(coloque aqui o print)
-
-### Console - Médias
-(coloque aqui o print)
-
-### Console - Checagens (some e every)
-(coloque aqui o print)
-
-### Página com div#output
-(coloque aqui o print)
+O projeto consiste em um catálogo simples de filmes e séries com operações de manipulação de dados e exibição de resultados no console e na página.
