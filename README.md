@@ -1,14 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bvPRPV5p)
-# Trabalho Prático - Semana 9
+# Manipulação de Objetos e Arrays utilizando JSON
 
-Nesta atividade, você vai montar um programa para praticar funções em JavaScript e a manipulação do DOM, criando uma tela simples no estilo eCommerce que lista produtos em cards a partir de um objeto JSON (array de produtos).
+## Aluno
+Nome: Yuri  
+Matrícula: 907001
 
-Você vai usar métodos e propriedades do document e seus nodos para criar elementos, definir atributos, alterar conteúdo, estilizar e registrar eventos.
+## Prints
 
-A atividade foi pensada para ser concluída em até 1h no laboratório, usando Visual Studio Code e um navegador (DevTools/Console).
+### Console - Listagem de títulos
+(coloque aqui o print)
 
-## Informações Gerais
+### Console - Médias
+(coloque aqui o print)
 
-- Nome:
-- Matricula:
+### Console - Checagens (some e every)
+(coloque aqui o print)
 
+### Página com div#output
+(coloque aqui o print)
